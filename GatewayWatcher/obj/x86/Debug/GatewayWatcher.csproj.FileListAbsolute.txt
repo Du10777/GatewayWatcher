@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\bin\Debug\GatewayWatcher.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\bin\Debug\GatewayWatcher.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\obj\x86\Debug\GatewayWatcher.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\obj\x86\Debug\GatewayWatcher.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\bin\Release\GatewayWatcher.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\bin\Release\GatewayWatcher.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\obj\x86\Release\GatewayWatcher.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\obj\x86\Release\GatewayWatcher.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GatewayWatcher\GatewayWatcher\obj\x86\Release\GatewayWatcher.csprojResolveAssemblyReference.cache
